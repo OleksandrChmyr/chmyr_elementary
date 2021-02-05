@@ -1,6 +1,6 @@
 package homework21.threads;
 
-import homework21.Utils.ThreadHelper;
+import homework21.utils.ThreadHelper;
 
 public class ThreadExample extends Thread{
 
